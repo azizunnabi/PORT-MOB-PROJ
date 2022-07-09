@@ -10,6 +10,10 @@
   background-color: #fff;
 }
 
+.dkl{
+  float:right;
+  margin-right:90px;
+}
 .sec3rlink23 {
   list-style-type: none;
 }
@@ -27,14 +31,19 @@
 
 .limage {
   display: inline;
+  list-style-type: none;
 }
 
 .dk {
   margin-top: 20px;
+  margin-left:30px;
 }
 
+.sa{
+  margin-left:30px;
+}
 .cars {
-  margin-left: 130px;
+  margin-left: 160px;
   border: 0;
 }
 
@@ -101,12 +110,27 @@ a.inline {
 /* Header / 1 */
 
 .h2 {
-  float: center;
-  font-family: Arial, sans-serif;
-  font-style: normal;
-  font-weight: 700;
-  font-size: 48px;
-  line-height: 60px;
+margin-left:30px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 52px;
+/* or 130% */
+
+display: flex;
+align-items: center;
+
+/* Neutrals/N800 */
+
+color: #172B4D;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
 
   /* or 125% */
 
@@ -172,6 +196,7 @@ h2 {
   padding-right: 40px;
   padding-top: 25px;
   margin-top: -30px;
+  margin-left:30px;
 }
 
 h5 {
@@ -185,8 +210,9 @@ h5 {
 }
 
 .ets {
+  margin-left:30px;
   color: #6070ff;
-  margin-top: -80px;
+  margin-top: -50px;
   padding-top: 125px;
 }
 
@@ -206,8 +232,12 @@ h5 {
   width: 30px;
 }
 
+.jd{
+  margin-left:30px;
+}
 /* Next project Set up started */
 .imagesec4 {
+  
   width: 295px;
   height: 220px;
   top: 16px;
@@ -221,7 +251,12 @@ h5 {
   flex-grow: 0;
 }
 
+.tonic1{
+  margin-left:30px;
+}
+
 .section3 {
+  margin-left:30px;
   padding-top: 300px;
 }
 
@@ -251,6 +286,7 @@ h5 {
 }
 
 .sec3p1 {
+  margin-left:30px;
   margin-top: 0;
   width: 295px;
   height: 76px;
@@ -276,40 +312,130 @@ h5 {
   flex-grow: 0;
 }
 
+.sec3rlink31{
+text-decoration: none;
+width: 29px;
+height: 16px;
+
+/* Button / Small */
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 16px;
+/* identical to box height, or 133% */
+
+letter-spacing: 0.03em;
+
+/* Primary/B400 */
+
+color: #6070FF;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+}
 .sec3rlink3 {
+  width: 55px;
+height: 16px;
+
+/* Caption / 1 - Bolder */
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 13px;
+line-height: 16px;
+/* identical to box height, or 123% */
+
+
+/* Neutrals/N600 */
+
+color: #344563;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
   text-decoration: none;
   width: 55px;
   height: 16px;
 }
 
+.d{
+  margin-top:-10px;
+}
+.bb{
+  margin-left:30px;
+  box-sizing: border-box;
+
+/* Auto layout */
+
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 16px;
+gap: 12px;
+
+width: 327px;
+height: 552px;
+
+/* Neutrals/N0 */
+
+background: #FFFFFF;
+/* Neutrals/N40 */
+
+border: 1px solid #DFE1E6;
+border-radius: 16px;
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+}
 .sec3rlink4 {
-  margin-top: 30px;
-  font-family: Arial, sans-serif;
-  font-style: normal;
-  font-weight: 500;
-  font-size: 17px;
-  line-height: 24px;
+width: 200px;
+height: 24px;
 
-  /* identical to box height, or 141% */
+/* Button /Normal */
 
-  display: flex;
-  align-items: center;
-  text-align: center;
-  letter-spacing: 0.03em;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 17px;
+line-height: 24px;
+/* identical to box height, or 141% */
 
-  /* Primary/B500 */
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.03em;
 
-  color: #396df2;
+/* Primary/B500 */
 
-  /* Inside auto layout */
+color: #396DF2;
 
-  flex: none;
-  order: 0;
-  flex-grow: 0;
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
 }
 
+.ld{
+  margin-left:30px;
+}
 .section4 {
-  margin-top: 1200px;
+  margin-left:30px;
+  margin-top: 1060px;
 }
 
 .section5 {
