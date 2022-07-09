@@ -2,14 +2,23 @@
 
 # Project Name
 
+Portfolio Mobile version project
+
 > Description the project.
+> This is basic project that contains information about my Porfolio. Like who am i? What languages i can work with? How many projects do i have. 
+> Its a basic portfolio website for software Engineers
 
 
 ## Built With
 
 - Major languages
+- Languages i have used in are HTML,CSS etc.
+- 
 - Frameworks
+- Flexbox, Grading
+- 
 - Technologies used
+- Html,css,Flexbox,Grading etc
 
 ## Live Demo (if available)
 
