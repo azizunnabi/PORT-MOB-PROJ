@@ -304,7 +304,9 @@ h5 {
   order: 1;
   flex-grow: 0;
 }
+
 .sec3rlink31 { 
+
   text-decoration: none;
   width: 29px;
   height: 16px;
@@ -395,7 +397,6 @@ h5 {
 .sec3rlink4 {
   width: 200px;
   height: 24px;
-  
   /* Button /Normal */
 
   font-family: Arial, sans-serif;
