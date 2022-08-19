@@ -309,25 +309,13 @@ h5 {
   text-decoration: none;
   width: 29px;
   height: 16px;
-
-  /* Button / Small */
-
   font-family: Arial, sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 12px;
   line-height: 16px;
-
-  /* identical to box height, or 133% */
-
   letter-spacing: 0.03em;
-
-  /* Primary/B400 */
-
   color: #6070ff;
-
-  /* Inside auto layout */
-
   flex: none;
   order: 0;
   flex-grow: 0;
