@@ -40,9 +40,10 @@
   margin-left: 30px;
 }
 
-.sa{
+.sa {
   margin-left: 30px;
 }
+
 .cars {
   margin-left: 160px;
   border: 0;
@@ -161,7 +162,7 @@ a.inline {
 
   /* Neutrals/N600 */
 
-   color: #344563;
+  color: #344563;
 
   /* Inside auto layout */
 
@@ -243,7 +244,7 @@ h5 {
   flex-grow: 0;
 }
 
-.tonic1{
+.tonic1 {
   margin-left: 30px;
 }
 
@@ -373,7 +374,6 @@ h5 {
   align-items: center;
   padding: 16px;
   gap: 12px;
-
   width: 327px;
   height: 552px;
 
