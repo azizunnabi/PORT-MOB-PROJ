@@ -51,11 +51,11 @@
 
 .m-logo {
   padding-top: 10px;
-  padding-left: 40px;
+  padding-left: 10px;
   text-decoration: none;
   width: 76px;
   height: 20px;
-  font: Poppins;
+  font-family: Arial, sans-serif;
   font-style: normal;
   font-weight: 700;
   font-size: 18px;
@@ -95,25 +95,15 @@ a.inline {
   float: right;
 }
 
-.gl {
-  margin-top: -30px;
-}
-
 .section1 {
   width: 375px;
-  padding-top: 55px;
-  margin-top: 30px;
+  padding-top: 10px;
+  display: inline;
   padding-right: 60px;
-  display: flex;
-}
-
-.l1 {
-  margin-top: 10px;
 }
 
 .section2 {
   padding-left: 10px;
-  margin-top: -50px;
   width: 920px;
   padding-top: 50px;
   height: 122px;
@@ -123,7 +113,7 @@ a.inline {
 
 .h2 {
   margin-left: 30px;
-  font: Poppins;
+  font-family: "Times New Roman", Times, serif;
   font-style: normal;
   font-weight: 700;
   font-size: 40px;
@@ -135,8 +125,6 @@ a.inline {
   align-items: center;
 
   /* Neutrals/N800 */
-
-  color: #172b4d;
 
   /* Inside auto layout */
 
@@ -150,24 +138,12 @@ a.inline {
 
   /* Theme 1 / Neutrals 1 */
 
-  /* Inside auto layout */
+  color: #091e42;
 }
 
 .imalex {
   width: 375px;
   padding-left: 0;
-}
-
-.social-menue {
-  text-decoration: none;
-  display: inline-flex;
-  margin-left: -30px;
-}
-
-.social-menue li {
-  text-decoration: none;
-  display: inline-flex;
-  padding-right: 10px;
 }
 
 .sec4h4 {
@@ -176,7 +152,7 @@ a.inline {
 
   /* Body / 2 */
 
-  font: Poppins;
+  font-family: Arial, sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
@@ -210,6 +186,7 @@ h2 {
 
 .sec2image {
   padding-right: 40px;
+  padding-top: 25px;
   margin-top: -30px;
   margin-left: 30px;
 }
@@ -225,7 +202,7 @@ h5 {
 }
 
 .ets {
-  margin-left: 50px;
+  margin-left: 30px;
   color: #6070ff;
   margin-top: -50px;
   padding-top: 125px;
@@ -234,8 +211,7 @@ h5 {
 .image3 {
   padding-left: 50px;
   width: 80px;
-  height: 130px;
-  margin-top: 15px;
+  margin-top: 40px;
 }
 
 .image7 {
@@ -250,11 +226,6 @@ h5 {
 
 .jd {
   margin-left: 30px;
-}
-
-.m {
-  margin-left: 70px;
-  margin-top: 15px;
 }
 
 /* Next project Set up started */
@@ -288,7 +259,7 @@ h5 {
 
   /* Caption / 1 - Bolder */
 
-  font: Poppins;
+  font-family: Arial, sans-serif;
   font-style: normal;
   font-weight: 600;
   font-size: 13px;
@@ -315,7 +286,7 @@ h5 {
 
   /* Body / 3 */
 
-  font: Poppins;
+  font-family: Arial, sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 15px;
@@ -334,14 +305,14 @@ h5 {
   flex-grow: 0;
 }
 
-.sec3rlink31 {
+.sec3rlink31 { 
   text-decoration: none;
   width: 29px;
   height: 16px;
 
   /* Button / Small */
 
-  font: Poppins;
+  font-family: Arial, sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 12px;
@@ -368,7 +339,7 @@ h5 {
 
   /* Caption / 1 - Bolder */
 
-  font: Poppins;
+  font-family: Arial, sans-serif;
   font-style: normal;
   font-weight: 600;
   font-size: 13px;
@@ -428,7 +399,7 @@ h5 {
 
   /* Button /Normal */
 
-  font: Poppins;
+  font-family: Arial, sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 17px;
