@@ -10,10 +10,11 @@
   background-color: #fff;
 }
 
-.dkl{
-  float:right;
-  margin-right:90px;
+.dkl {
+  float: right;
+  margin-right: 90px;
 }
+
 .sec3rlink23 {
   list-style-type: none;
 }
@@ -36,11 +37,11 @@
 
 .dk {
   margin-top: 20px;
-  margin-left:30px;
+  margin-left: 30px;
 }
 
 .sa{
-  margin-left:30px;
+  margin-left: 30px;
 }
 .cars {
   margin-left: 160px;
@@ -110,7 +111,7 @@ a.inline {
 /* Header / 1 */
 
 .h2 {
-  margin-left:30px;
+  margin-left: 30px;
   font-family: "Times New Roman", Times, serif;
   font-style: normal;
   font-weight: 700;
@@ -123,8 +124,6 @@ a.inline {
   align-items: center;
 
   /* Neutrals/N800 */
-
-  color: #172b4d ;
 
   /* Inside auto layout */
 
@@ -224,14 +223,13 @@ h5 {
   width: 30px;
 }
 
-.jd{
+.jd {
   margin-left: 30px;
 }
 
 /* Next project Set up started */
 
 .imagesec4 {
-  
   width: 295px;
   height: 220px;
   top: 16px;
@@ -280,7 +278,7 @@ h5 {
 }
 
 .sec3p1 {
-  margin-left:30px;
+  margin-left: 30px;
   margin-top: 0;
   width: 295px;
   height: 76px;
@@ -306,14 +304,14 @@ h5 {
   flex-grow: 0;
 }
 
-.sec3rlink31{
+.sec3rlink31 { 
   text-decoration: none;
   width: 29px;
   height: 16px;
 
   /* Button / Small */
 
-   font-family: Arial, sans-serif;
+  font-family: Arial, sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 12px;
@@ -352,7 +350,6 @@ h5 {
 
   color: #344563;
 
-
   /* Inside auto layout */
 
   flex: none;
@@ -366,7 +363,7 @@ h5 {
 }
 
 .bb {
-  margin-left:30px;
+  margin-left: 30px;
   box-sizing: border-box;
 
   /* Auto layout */
@@ -382,7 +379,7 @@ h5 {
 
   /* Neutrals/N0 */
 
-  background: #ffffff;
+  background: #fff;
 
   /* Neutrals/N40 */
 
@@ -395,6 +392,7 @@ h5 {
   order: 0;
   flex-grow: 0;
 }
+
 .sec3rlink4 {
   width: 200px;
   height: 24px;
@@ -418,7 +416,6 @@ h5 {
 
   color: #396df2;
 
-
   /* Inside auto layout */
 
   flex: none;
@@ -427,7 +424,7 @@ h5 {
 }
 
 .ld {
-  margin-left:30px;
+  margin-left: 30px;
 }
 
 .section4 {
